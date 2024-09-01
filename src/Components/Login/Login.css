@@ -60,13 +60,14 @@
   margin-right: 5px;
 }
 
-.recall-forget a, .signup-link p a {
+.recall-forget a,
+.signup-link p a {
   color: #fff;
   text-decoration: none;
 }
 
-.recall-forget a:hover, 
-.signup-link p a:hover  {
+.recall-forget a:hover,
+.signup-link p a:hover {
   text-decoration: underline;
 }
 
@@ -79,7 +80,7 @@
   border-radius: 40px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   cursor: pointer;
-  font-weight: 600;
+  font-weight: 900;
   text-shadow: none;
 }
 
@@ -89,7 +90,3 @@
   margin: 20px 0 10px;
   text-shadow: none;
 }
-
-
-
-
